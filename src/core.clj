@@ -24,5 +24,3 @@
     (fn [request]
       (handler request))
     {:port 8080 :join? false}))
-
-(-main 123)
